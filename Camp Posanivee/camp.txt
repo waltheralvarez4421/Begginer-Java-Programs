@@ -1,0 +1,13 @@
+A
+H
+E Kanga 26 F
+E Tigger 28 M
+E Pooh 31 M
+L
+D Tigger
+E Rabbit 30 M
+S
+E Eeyore 36 M
+W Kanga
+P
+Q

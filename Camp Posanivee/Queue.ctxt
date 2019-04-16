@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=void\ enqueue(java.lang.Object)
+comment1.params=
+comment1.target=java.lang.Object\ dequeue()
+comment2.params=
+comment2.target=void\ makeEmpty()
+comment3.params=
+comment3.target=java.lang.Object\ getFront()
+comment4.params=
+comment4.target=int\ size()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment6.params=
+comment6.target=boolean\ isFull()
+numComments=7
